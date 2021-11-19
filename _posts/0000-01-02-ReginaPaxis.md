@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Markdown is the language of choice in Git environments
+
 Use the left arrow to go back!
